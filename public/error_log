@@ -1,0 +1,125 @@
+[17-Nov-2018 14:39:06 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:39:20 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:39:50 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:40:02 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:40:58 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:46:04 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:46:12 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:47:22 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:49:28 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:49:41 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:50:03 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:51:52 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:58:28 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[17-Nov-2018 14:58:36 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/amrbdr/public_html/jazemaa/public/index.php on line 21
+[19-Nov-2018 10:13:57 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[19-Nov-2018 10:16:44 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[19-Nov-2018 10:25:49 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[19-Nov-2018 10:29:05 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[19-Nov-2018 10:32:56 UTC] PHP Warning:  require(/home/amrbdr/public_html/jazemaa/public/jazemaa/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/amrbdr/public_html/jazemaa/public/index.php on line 22
+[19-Nov-2018 10:32:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/amrbdr/public_html/jazemaa/public/jazemaa/../bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/amrbdr/public_html/jazemaa/public/index.php on line 22
+[19-Nov-2018 10:35:53 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[19-Nov-2018 12:46:14 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[19-Nov-2018 13:09:00 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/amrbdr/public_html/jazemaa2/vendor/spatie/laravel-backup/src/Helpers/functions.php on line 5
+[22-Jan-2019 22:39:34 Africa/Cairo] PHP Fatal error:  Class 'App\Modules\Website\WebsiteController' not found in /home/amrbdr/public_html/jazemaa/app/Modules/Website/HomeController.php on line 14
+[19-Feb-2019 22:07:01 Africa/Cairo] PHP Warning:  Uncaught ErrorException: require(/home/amrbdr/public_html/jazemaa/routes/Api.routes.php): failed to open stream: No such file or directory in /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php:329
+Stack trace:
+#0 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php(329): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/a...', '/home/amrbdr/pu...', 329, Array)
+#1 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php(329): require()
+#2 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php(285): Illuminate\Routing\Router->loadRoutes('/home/amrbdr/pu...')
+#3 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(104): Illuminate\Routing\Router->group(Array, '/home/amrbdr/pu...')
+#4 /home/amrbdr/public_html/jazemaa/app/Providers/RouteServiceProvider.php(75): Illuminate\Routing\RouteRegi in /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 329
+[19-Feb-2019 22:07:01 Africa/Cairo] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home/amrbdr/public_html/jazemaa/routes/Api.routes.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 329
+[19-Feb-2019 22:08:37 Africa/Cairo] PHP Warning:  Uncaught ErrorException: require(/home/amrbdr/public_html/jazemaa/routes/Api.routes.php): failed to open stream: No such file or directory in /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php:329
+Stack trace:
+#0 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php(329): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/a...', '/home/amrbdr/pu...', 329, Array)
+#1 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php(329): require()
+#2 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php(285): Illuminate\Routing\Router->loadRoutes('/home/amrbdr/pu...')
+#3 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(104): Illuminate\Routing\Router->group(Array, '/home/amrbdr/pu...')
+#4 /home/amrbdr/public_html/jazemaa/app/Providers/RouteServiceProvider.php(75): Illuminate\Routing\RouteRegi in /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 329
+[19-Feb-2019 22:08:37 Africa/Cairo] PHP Fatal error:  Illuminate\Routing\Router::loadRoutes(): Failed opening required '/home/amrbdr/public_html/jazemaa/routes/Api.routes.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 329
+[30-Mar-2019 23:18:58 Africa/Cairo] PHP Fatal error:  Cannot use App\Models\User as User because the name is already in use in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/MiscApiController.php on line 14
+[12-Apr-2019 21:48:38 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 297
+[12-Apr-2019 21:48:54 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 297
+[04-May-2019 10:25:30 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 297
+[04-May-2019 10:25:56 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 297
+[04-May-2019 10:42:55 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 297
+[04-May-2019 10:44:07 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 297
+[04-May-2019 10:46:54 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 297
+[04-May-2019 10:47:34 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 297
+[07-May-2019 01:34:51 Africa/Cairo] PHP Fatal error:  Cannot redeclare App\Modules\Website\UserController::getAttributes() in /home/amrbdr/public_html/jazemaa/app/Modules/Website/UserController.php on line 268
+[07-May-2019 01:34:59 Africa/Cairo] PHP Fatal error:  Cannot redeclare App\Modules\Website\UserController::getAttributes() in /home/amrbdr/public_html/jazemaa/app/Modules/Website/UserController.php on line 268
+[19-May-2019 01:56:10 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 322
+[24-May-2019 00:57:55 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 324
+[13-Jul-2019 18:42:40 Africa/Cairo] PHP Fatal error:  Class 'App\Modules\Api\User\UserApiController' not found in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/ItemApiController.php on line 23
+[13-Jul-2019 18:52:18 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10468986880 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 332
+[13-Jul-2019 21:35:55 Africa/Cairo] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected ')' in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/UserApiController.php:164
+Stack trace:
+#0 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/amrbdr/pu...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Modules\\Api...')
+#2 /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/ItemApiController.php(23): spl_autoload_call('App\\Modules\\Api...')
+#3 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(444): include('/home/amrbdr/pu...')
+#4 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/amrbdr/pu...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Modules\\Api...')
+#6 [internal function]: spl_autoload_call('App\\Modules\\Api...')
+#7 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__constru in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/ItemApiController.php on line 23
+[13-Jul-2019 21:36:09 Africa/Cairo] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected ')' in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/UserApiController.php:164
+Stack trace:
+#0 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/amrbdr/pu...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Modules\\Api...')
+#2 /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/ItemApiController.php(23): spl_autoload_call('App\\Modules\\Api...')
+#3 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(444): include('/home/amrbdr/pu...')
+#4 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/amrbdr/pu...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Modules\\Api...')
+#6 [internal function]: spl_autoload_call('App\\Modules\\Api...')
+#7 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__constru in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/ItemApiController.php on line 23
+[13-Jul-2019 21:36:56 Africa/Cairo] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected ')' in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/UserApiController.php:164
+Stack trace:
+#0 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/amrbdr/pu...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Modules\\Api...')
+#2 /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/DealApiController.php(16): spl_autoload_call('App\\Modules\\Api...')
+#3 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(444): include('/home/amrbdr/pu...')
+#4 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/amrbdr/pu...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Modules\\Api...')
+#6 [internal function]: spl_autoload_call('App\\Modules\\Api...')
+#7 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__constru in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/DealApiController.php on line 16
+[16-Jul-2019 23:32:01 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 332
+[16-Jul-2019 23:35:02 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 332
+[18-Jul-2019 00:32:07 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 332
+[26-Jul-2019 00:08:31 Africa/Cairo] PHP Fatal error:  Cannot use App\Models\Attributes as Attributes because the name is already in use in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/UserApiController.php on line 11
+[26-Jul-2019 00:40:31 Africa/Cairo] PHP Fatal error:  Class 'App\Modules\Api\User\UserApiController' not found in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/ItemApiController.php on line 25
+[01-Aug-2019 14:02:10 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10468986880 bytes) in /home/amrbdr/public_html/jazemaa/storage/framework/views/b44fe9f7954fb15118053a8fd44291c19e2b8307.php on line 335
+[01-Aug-2019 14:02:17 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10468986880 bytes) in /home/amrbdr/public_html/jazemaa/storage/framework/views/b44fe9f7954fb15118053a8fd44291c19e2b8307.php on line 335
+[01-Aug-2019 14:02:46 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10468986880 bytes) in /home/amrbdr/public_html/jazemaa/storage/framework/views/b44fe9f7954fb15118053a8fd44291c19e2b8307.php on line 335
+[01-Aug-2019 14:08:31 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10468986880 bytes) in /home/amrbdr/public_html/jazemaa/storage/framework/views/b44fe9f7954fb15118053a8fd44291c19e2b8307.php on line 335
+[01-Aug-2019 14:09:26 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10468986880 bytes) in /home/amrbdr/public_html/jazemaa/storage/framework/views/b44fe9f7954fb15118053a8fd44291c19e2b8307.php on line 335
+[01-Aug-2019 14:09:27 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10468986880 bytes) in /home/amrbdr/public_html/jazemaa/storage/framework/views/b44fe9f7954fb15118053a8fd44291c19e2b8307.php on line 335
+[01-Aug-2019 14:09:55 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10468986880 bytes) in /home/amrbdr/public_html/jazemaa/storage/framework/views/b44fe9f7954fb15118053a8fd44291c19e2b8307.php on line 335
+[03-Aug-2019 17:49:46 Africa/Cairo] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected ')' in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/UserApiController.php:395
+Stack trace:
+#0 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/amrbdr/pu...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Modules\\Api...')
+#2 /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/UserInfoApiController.php(12): spl_autoload_call('App\\Modules\\Api...')
+#3 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(444): include('/home/amrbdr/pu...')
+#4 /home/amrbdr/public_html/jazemaa/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/amrbdr/pu...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Modules\\Api...')
+#6 [internal function]: spl_autoload_call('App\\Modules\\Api...')
+#7 /home/amrbdr/public_html/jazemaa/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__con in /home/amrbdr/public_html/jazemaa/app/Modules/Api/User/UserInfoApiController.php on line 12
+[23-Aug-2019 05:16:11 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 341
+[23-Aug-2019 05:33:11 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 341
+[23-Aug-2019 05:33:19 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 341
+[24-Aug-2019 15:21:02 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 341
+[24-Aug-2019 15:21:12 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 341
+[05-Sep-2019 13:31:37 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 407
+[05-Sep-2019 13:31:47 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 407
+[05-Sep-2019 13:32:15 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Helpers/Global.helpers.php on line 407
+[05-Sep-2019 13:32:46 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 66
+[05-Sep-2019 13:32:52 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 66
+[05-Sep-2019 13:33:07 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 66
+[05-Sep-2019 13:33:40 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 66
+[05-Sep-2019 13:33:59 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 66
+[05-Sep-2019 13:34:47 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 66
+[06-Sep-2019 08:42:08 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 130
+[06-Sep-2019 08:42:18 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 130
+[06-Sep-2019 08:42:26 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 130
+[06-Sep-2019 08:42:36 Africa/Cairo] PHP Fatal error:  Allowed memory size of 10485760000 bytes exhausted (tried to allocate 10471084032 bytes) in /home/amrbdr/public_html/jazemaa/app/Modules/Website/ItemController.php on line 130
