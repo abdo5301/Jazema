@@ -21,3 +21,4 @@ yarn-error.log
 rr
 .rr.yaml
 /db_files
+/.sql
